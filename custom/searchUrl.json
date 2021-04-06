@@ -1,0 +1,24 @@
+    {
+    "id": 1,
+    "name": "AWSLTV",
+    "url": "http://www.awsltv.com/api.php/provide/vod/at/xml",
+    "cate": "国产剧,13&&欧美剧,16&&日韩剧,15&&港台剧,14&&国产动漫,42&&日韩动漫,43&&内地综艺,28&&电影,1&&连续剧,2&&综艺,3&&动漫,4",
+    "click": true,
+    "wePlus": {}
+    },
+    {
+    "id": 1,
+    "name": "蚂蚁BT",
+    "url": "https://www.mayipbt.cc/api.php/provide/vod/at/xml",
+    "cate": "国产剧,13&&欧美剧,16&&日韩剧,15&&港台剧,14&&国产动漫,24&&日韩动漫,25&&内地综艺,28&&电影,1&&连续剧,2&&综艺,3&&动漫,4",
+    "click": true,
+    "wePlus": {}
+    },
+    {
+    "id": 1,
+    "name": "被窝影视",
+    "url": "https://www.beiwoysw.com/api.php/provide/vod/at/xml",
+    "cate": "国产剧,13&&欧美剧,16&&日韩剧,15&&港台剧,14&&国产动漫,24&&日韩动漫,25&&内地综艺,28&&电影,1&&连续剧,2&&综艺,3&&动漫,4",
+    "click": true,
+    "wePlus": {}
+    },
