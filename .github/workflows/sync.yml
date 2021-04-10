@@ -39,7 +39,7 @@ jobs:
           FOLDER: freed
           CLEAN: true
           CLEAN_EXCLUDE: '["README.md"]'
-          SINGLE_COMMIT: true
+          SINGLE_COMMIT: false
 
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@main
