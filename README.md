@@ -31,7 +31,7 @@ custom/exterior/files/ | 收集到的文件
 
 # Usage
 
-[下载](https://wwi.lanzous.com/b025mpw7e) <br>
+[下载](https://wwi.lanzoui.com/b025mpw7e) <br>
 选择自建接口，输入 
 - 默认：`https://github.com/artxia/FreedTV/raw/main/tv/`
 - 大陆：`https://cdn.jsdelivr.net/gh/artxia/FreedTV@main/tv/`
