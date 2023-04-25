@@ -27,9 +27,7 @@ jobs:
       - name: Download files
         run: |
           /bin/bash "custom/exterior/download_files_from_list.sh"
-          sed -i '/"data": \[/r custom/webPlugNavigation.json' tv/webPlugNavigation.json
-          sed -i '/"data": \[/r custom/searchUrl.json' tv/searchUrl.json
-          cp -r custom freed
+
           
       - name: Deploy to Pages
         uses: JamesIves/github-pages-deploy-action@3.7.1
