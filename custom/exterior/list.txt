@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/gyhxxx/freedtv/main/webPlugNavigation.json web
 https://raw.githubusercontent.com/YuanHsing/freed/master/tv/searchUrl.json searchUrl_YuanHsing.json
 https://raw.githubusercontent.com/YuanHsing/freed/master/tv/webPlugNavigation.json webPlugNavigation_YuanHsing.json
 https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
+https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json
